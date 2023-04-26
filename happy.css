@@ -1,0 +1,16 @@
+body{
+    background-image: url(Images/mario-movie-poster.webp);
+    background-repeat:no-repeat;
+}
+image {
+  display: block;
+  max-width: 100%;
+}
+body{
+    background-color: darkcyan
+}
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+    font-weight: bolder
+}
