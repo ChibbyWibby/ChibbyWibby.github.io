@@ -1,0 +1,16 @@
+body{
+    background-image: url(Forest%203.jpg);
+    background-repeat:no-repeat;
+}
+image {
+  display: block;
+  max-width: 100%;
+}
+body{
+    background-color: darkcyan
+}
+h1{
+    font-family: fantasy;
+    font-size: 30px;
+    font-weight: bolder
+}
